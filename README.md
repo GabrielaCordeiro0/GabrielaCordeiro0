@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Data Analyst and Scientist</h1>
+<h1>Hi 👋, I'm Specialist Analyst and Scientist</h1>
 <p>Apaixonada por dados se transformando em informações...</p>
 
 - 🌱 I’m currently learning Machine Learning e algoritmos de recomendações
