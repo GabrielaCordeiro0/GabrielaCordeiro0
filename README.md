@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm data  Specialist  and Scientist</h1>
 <p>Apaixonada por dados se transformando em informações...</p>
 
-- 🌱 I’m currently learning Machine Learning e algoritmos de recomendações
+- 🌱 Main focus on machine learning and recommendation algorithms.
 - 👯 I’m looking to collaborate with pessoas que queiram aprender e entrar nos mundos de dados.
 - 💬 Ask me about SQL, POWER BI, EXCEL, PYTHON, QUICKSHIGT, AWS
 - 📫 How to reach me: Pelo linkedin link: https://www.linkedin.com/in/gabriela-cordeiro-a4bb4631/
